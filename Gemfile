@@ -36,3 +36,5 @@ group :test do
   gem 'launchy'
   gem 'selenium-webdriver'
 end
+gem 'gibbon'
+gem 'sucker_punch'
